@@ -11,12 +11,12 @@ Projeto de um menu responsivo simples usando HTML, CSS e JavaScript
 
 ### #2
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/78514404/215197857-55e464a7-cbbf-4915-8c59-2ef3eafdc7e5.PNG" alt="drawing" width="800"/>
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/215197857-55e464a7-cbbf-4915-8c59-2ef3eafdc7e5.PNG" alt="drawing" width="500"/>
 </p>
 
 ### #3
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/78514404/215197861-2d39a200-a446-4ccd-98aa-ce640a050b6a.PNG" alt="drawing" width="800"/>
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/215197861-2d39a200-a446-4ccd-98aa-ce640a050b6a.PNG" alt="drawing" width="500"/>
 </p>
 
 ## 🛠️ Construído com
